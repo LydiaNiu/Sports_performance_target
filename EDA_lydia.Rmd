@@ -5,7 +5,115 @@ date: "2026-02-25"
 ---
 
 ```{r}
+# Load required libraries
+library(tidyverse)
+library(ggplot2)
+# Read the data
 data <- read.csv("Sports_performance_target.csv")
 
+# Convert categorical variables to factors
+data$home_game   <- as.factor(data$home_game)
+data$position    <- as.factor(data$position)
+data$game_timing <- as.factor(data$game_timing)
+data$met_target  <- as.factor(data$met_target)
+```
+
+Check whether the class, which is the variable met_target, is imbalanced in this dataset. If so, data preprocessing is required, otherwise the model will learn the pattern from the majority more than the minority. 
+
+EDA 1 — met_target imbalance check
+```{r}
+ggplot(data, aes(x = met_target)) +
+  geom_bar(fill = "steelblue") +
+  geom_text(stat = "count",
+            aes(label = paste0(round(..count../sum(..count..)*100, 1), "%")),
+            vjust = -0.5) +
+  labs(title = "Fig 1: Class Distribution of Met Target",
+       x = "Met Target (0 = No, 1 = Yes)",
+       y = "Count") +
+  theme_minimal()
+```
+
+Check the distribution of the continous variable, mainly see whether the data is skewed and any further action is needed.
+
+EDA 2 - distributon of continuous var
+```{r}
+continuous_vars <- data %>%
+  select(minutes_played, opponent_strength, travel_hours)
+
+continuous_long <- pivot_longer(continuous_vars,
+                                cols = everything(),
+                                names_to = "Variable",
+                                values_to = "Value")
+
+ggplot(continuous_long, aes(x = Value)) +
+  geom_histogram(bins = 30, fill = "skyblue", color = "black") +
+  facet_wrap(~ Variable, scales = "free") +
+  labs(title = "Fig 2: Distribution of Continuous Variables",
+       x = "Value",
+       y = "Frequency") +
+  theme_minimal()
+```
+
+Check multicollinearity, whether the 2 variables are multicollineared.
+
+EDA 3a — opponent_strength vs minutes_played
+```{r}
+ggplot(data, aes(x = opponent_strength, y = minutes_played)) +
+  geom_point(alpha = 0.6) +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  labs(title = "Fig 3a: Opponent Strength vs Minutes Played",
+       x = "Opponent Strength",
+       y = "Minutes Played") +
+  theme_minimal()
+
+cor(data$opponent_strength, data$minutes_played)
+```
+
+EDA 3b — travel_hours vs home_game
+```{r}
+ggplot(data, aes(x = home_game, y = travel_hours)) +
+  geom_boxplot(fill = "lightgreen") +
+  labs(title = "Fig 3b: Travel Hours by Home Game",
+       x = "Home Game",
+       y = "Travel Hours") +
+  theme_minimal()
+```
+
+EDA 3c — travel_hours vs rest_days
+```{r}
+ggplot(data, aes(x = as.factor(rest_days), y = travel_hours)) +
+  geom_boxplot(fill = "lightblue") +
+  labs(title = "Fig 3c: Travel Hours by Rest Days",
+       x = "Rest Days",
+       y = "Travel Hours") +
+  theme_minimal()
+```
+
+Bias check, whether different position have different standard as meeting the target.
+
+EDA 4 - position vs met_target (bias check)
+```{r}
+ggplot(data, aes(x = position, fill = met_target)) +
+  geom_bar(position = "fill") +
+  labs(title = "Fig 4: Proportion of Met Target by Position",
+       x = "Position",
+       y = "Proportion") +
+  theme_minimal()
+```
+
+EDA 5 — 3-Variable Scatter Plot
+X = Minutes Played
+Y = Travel Hours
+Color = Met Target
+
+```{r}
+ggplot(data, aes(x = minutes_played,
+                 y = travel_hours,
+                 color = met_target)) +
+  geom_point(alpha = 0.7) +
+  labs(title = "Fig 5: Minutes Played vs Travel Hours (Colored by Met Target)",
+       x = "Minutes Played",
+       y = "Travel Hours") +
+  theme_minimal()
 ```
 

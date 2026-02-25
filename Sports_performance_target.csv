@@ -1,0 +1,301 @@
+met_target,minutes_played,opponent_strength,rest_days,home_game,position,game_timing,travel_hours
+0,24.9,0.06,3,0,Forward,Prime Time,3.75
+0,23.3,0.09,3,0,Forward,Early,5.86
+0,12.3,1.81,0,1,Guard,Early,1.49
+0,31.5,1.75,1,1,Forward,Early,3.02
+0,37.0,0.41,1,0,Guard,Early,5.05
+1,48.0,-0.38,0,0,Forward,Prime Time,3.72
+0,36.0,1.01,1,0,Guard,Prime Time,4.14
+0,31.2,0.77,2,0,Forward,Prime Time,3.88
+0,21.4,-0.58,3,1,Forward,Prime Time,3.98
+1,26.8,-0.91,1,0,Forward,Late,5.19
+0,30.8,-1.11,2,1,Guard,Prime Time,2.23
+0,37.6,0.82,2,0,Forward,Late,4.13
+0,20.6,0.7,4,0,Forward,Prime Time,3.42
+1,37.3,-1.79,0,0,Guard,Early,2.17
+1,30.0,-1.01,2,1,Guard,Early,2.12
+1,15.9,0.52,3,1,Guard,Prime Time,3.05
+0,40.6,-0.59,4,1,Guard,Early,2.43
+1,41.4,-0.2,2,1,Guard,Early,1.64
+0,22.2,-0.75,3,0,Forward,Prime Time,3.63
+0,36.7,-0.71,3,1,Center,Prime Time,4.45
+0,27.9,0.63,0,1,Guard,Prime Time,0.4
+0,28.9,-0.61,1,0,Center,Early,2.0
+0,35.9,0.45,1,0,Forward,Prime Time,3.25
+0,48.0,0.3,4,0,Forward,Prime Time,4.63
+0,23.0,0.11,2,0,Guard,Early,4.38
+0,29.1,0.53,4,0,Guard,Early,4.2
+0,25.5,-0.05,0,0,Guard,Early,2.21
+0,41.2,-1.03,2,1,Forward,Late,3.52
+0,39.7,-0.72,2,1,Forward,Early,0.0
+1,32.3,1.67,3,1,Forward,Prime Time,2.27
+1,34.0,-0.94,2,0,Guard,Prime Time,2.81
+1,28.3,-1.28,5,1,Guard,Prime Time,1.64
+0,18.7,0.26,1,0,Forward,Prime Time,4.18
+1,33.3,-0.72,1,1,Forward,Prime Time,3.66
+1,16.7,-1.36,3,1,Forward,Prime Time,0.58
+0,13.0,0.55,2,1,Center,Early,2.21
+1,22.5,-1.59,1,1,Forward,Prime Time,0.36
+0,37.6,2.5,1,0,Guard,Early,3.33
+0,31.2,-0.96,2,0,Guard,Early,2.29
+0,20.9,0.41,1,0,Guard,Late,3.11
+0,26.5,0.36,1,1,Forward,Early,1.04
+0,34.2,-0.27,3,0,Forward,Early,2.53
+1,26.0,0.13,1,1,Center,Early,4.34
+1,42.2,0.03,1,0,Forward,Prime Time,3.64
+1,39.9,-1.26,2,1,Guard,Prime Time,0.13
+1,10.4,-0.59,1,1,Guard,Late,3.32
+1,30.0,-1.25,2,1,Forward,Early,2.01
+1,44.6,-1.67,2,1,Forward,Early,2.94
+1,20.6,-0.14,0,0,Guard,Prime Time,4.5
+0,17.9,1.65,2,0,Forward,Prime Time,2.98
+1,18.5,-1.45,3,0,Forward,Late,2.74
+0,27.2,0.24,4,0,Forward,Prime Time,3.56
+0,22.8,0.45,4,1,Forward,Prime Time,3.43
+1,29.0,0.16,2,0,Center,Late,1.82
+1,17.8,1.11,6,0,Guard,Early,2.0
+0,23.2,1.1,4,1,Guard,Prime Time,2.76
+0,7.9,1.38,1,1,Forward,Prime Time,0.51
+0,29.7,1.51,1,1,Guard,Late,0.12
+0,17.7,0.04,1,0,Guard,Prime Time,3.18
+1,14.8,1.03,5,0,Guard,Prime Time,3.89
+0,28.1,1.09,0,1,Guard,Prime Time,2.89
+0,10.9,0.84,0,1,Guard,Early,2.74
+1,23.7,0.28,1,0,Guard,Prime Time,3.45
+0,22.1,-0.5,3,0,Forward,Prime Time,3.38
+0,37.5,0.08,1,0,Forward,Early,0.12
+0,25.0,-0.45,3,1,Guard,Prime Time,0.0
+0,33.3,1.83,2,0,Guard,Prime Time,3.17
+1,11.4,-1.75,1,1,Guard,Early,0.83
+0,40.8,0.7,3,0,Guard,Early,3.71
+0,31.2,1.23,2,1,Guard,Prime Time,2.58
+1,23.2,-0.92,2,1,Guard,Early,1.62
+0,34.0,0.9,2,0,Guard,Early,3.56
+1,15.2,-2.13,3,1,Guard,Late,2.41
+0,31.2,-0.05,1,0,Forward,Prime Time,3.17
+0,20.3,-0.82,1,0,Forward,Prime Time,3.01
+0,13.0,-1.08,3,0,Center,Prime Time,4.15
+0,26.3,-1.47,2,1,Forward,Early,1.84
+0,30.7,1.02,1,0,Guard,Late,4.21
+0,32.9,1.91,1,1,Forward,Prime Time,2.21
+1,34.4,-0.65,2,1,Forward,Early,2.81
+1,38.6,-0.47,0,0,Forward,Prime Time,3.35
+0,27.9,0.34,3,0,Forward,Prime Time,3.27
+0,20.5,0.0,1,1,Center,Prime Time,2.51
+0,9.8,1.16,2,1,Guard,Early,1.23
+1,30.2,-0.73,2,0,Guard,Early,4.02
+1,28.7,-0.82,1,1,Forward,Prime Time,3.06
+0,30.1,-0.37,2,0,Forward,Prime Time,4.56
+0,31.7,-0.4,3,1,Forward,Late,1.18
+0,21.0,-0.04,1,0,Center,Prime Time,4.99
+0,29.8,1.93,1,0,Center,Prime Time,4.1
+0,37.7,1.27,3,1,Center,Prime Time,2.78
+0,33.9,-0.5,1,1,Center,Prime Time,3.0
+1,37.7,-2.5,2,1,Guard,Prime Time,1.33
+1,24.0,1.01,2,1,Center,Prime Time,2.3
+1,23.3,-0.92,4,1,Center,Late,1.41
+1,30.6,0.86,1,1,Guard,Prime Time,1.26
+0,24.5,1.37,0,1,Forward,Prime Time,3.98
+0,24.6,0.18,2,1,Guard,Early,1.52
+0,27.4,0.02,0,0,Guard,Prime Time,1.57
+1,33.2,2.28,3,0,Guard,Prime Time,3.29
+0,30.8,-0.99,2,0,Guard,Early,3.81
+0,7.0,1.0,0,1,Guard,Prime Time,2.2
+1,28.7,-0.73,3,1,Center,Prime Time,1.51
+1,34.7,-1.51,2,0,Forward,Early,1.3
+0,21.7,0.86,1,0,Center,Early,4.25
+0,23.0,-0.06,2,1,Guard,Prime Time,5.49
+1,5.0,-0.49,3,1,Guard,Prime Time,1.86
+0,36.8,0.92,3,1,Forward,Prime Time,2.39
+0,30.1,0.59,4,1,Center,Early,2.86
+1,26.3,1.75,2,0,Forward,Prime Time,3.0
+0,25.1,-1.0,0,1,Guard,Late,3.76
+1,26.0,-1.81,1,1,Forward,Prime Time,2.84
+0,28.6,-0.44,3,1,Center,Early,0.13
+0,20.1,-2.13,4,0,Center,Early,3.95
+0,35.5,2.06,2,0,Center,Early,5.68
+1,29.7,-0.57,1,1,Forward,Early,1.84
+0,24.5,-2.13,4,1,Guard,Late,3.28
+0,35.2,0.1,2,0,Forward,Late,3.79
+0,30.6,-1.4,2,1,Center,Early,1.33
+1,21.6,0.53,1,1,Guard,Prime Time,2.06
+1,17.8,-1.46,1,0,Guard,Early,2.93
+1,22.1,-0.4,3,1,Center,Prime Time,3.23
+1,21.6,-0.97,1,1,Center,Prime Time,2.13
+0,26.7,0.0,0,0,Forward,Early,5.13
+1,21.5,-0.81,3,1,Forward,Late,0.72
+0,27.5,0.17,2,1,Forward,Early,3.29
+0,23.2,-0.2,5,0,Forward,Prime Time,4.36
+0,30.3,-0.32,1,1,Guard,Prime Time,2.01
+1,30.1,-0.44,3,0,Forward,Late,2.38
+1,11.3,-0.08,1,1,Guard,Late,1.97
+1,20.2,-0.15,3,0,Guard,Late,5.37
+1,24.6,-2.2,2,0,Forward,Prime Time,4.06
+1,22.7,0.51,2,0,Forward,Late,4.0
+0,32.2,0.42,5,0,Forward,Prime Time,3.43
+0,17.9,-0.01,0,0,Forward,Prime Time,2.95
+1,25.3,-1.02,3,0,Guard,Late,3.57
+0,37.1,-0.75,2,0,Guard,Prime Time,3.3
+1,26.5,-0.06,1,0,Forward,Prime Time,0.9
+0,19.7,0.16,1,1,Guard,Prime Time,4.47
+0,23.5,0.37,1,1,Center,Prime Time,2.59
+1,28.4,-2.5,0,0,Forward,Prime Time,3.52
+0,24.6,2.42,3,1,Center,Prime Time,1.35
+0,32.5,0.96,2,1,Center,Late,2.64
+0,30.8,-0.65,3,1,Center,Prime Time,2.51
+0,36.0,0.48,2,0,Center,Early,1.9
+1,31.2,-2.1,0,0,Guard,Late,2.21
+1,29.0,1.06,4,1,Forward,Prime Time,1.8
+0,19.1,-0.4,2,0,Center,Prime Time,4.34
+1,28.8,-0.18,1,0,Forward,Prime Time,3.87
+0,37.0,-0.52,2,0,Center,Prime Time,3.72
+0,32.5,0.39,3,1,Guard,Early,0.65
+0,28.1,0.59,4,1,Forward,Early,2.79
+1,15.1,-1.88,1,1,Forward,Early,4.81
+0,21.1,-1.56,1,0,Forward,Early,2.06
+1,40.1,0.74,3,0,Forward,Late,3.49
+0,30.5,-0.06,3,1,Guard,Early,3.09
+0,15.7,-0.33,2,1,Center,Early,3.25
+1,17.7,-0.66,1,1,Forward,Early,0.79
+1,32.9,-2.5,3,0,Forward,Prime Time,3.11
+0,34.7,0.83,0,1,Guard,Early,3.3
+0,33.8,-0.35,2,1,Forward,Early,3.28
+1,34.1,-1.51,1,1,Forward,Early,3.3
+0,28.0,0.11,2,1,Guard,Early,3.03
+0,31.7,-1.7,0,1,Guard,Early,2.18
+1,19.4,-2.08,2,0,Forward,Prime Time,3.49
+1,18.0,1.55,3,1,Guard,Early,2.11
+0,26.7,-0.15,3,1,Center,Prime Time,0.85
+1,37.6,0.39,2,1,Guard,Late,3.72
+0,37.3,2.5,2,1,Center,Early,1.19
+1,34.5,0.09,0,1,Guard,Prime Time,1.62
+1,31.9,-1.1,2,0,Guard,Prime Time,0.06
+1,13.7,0.1,3,0,Guard,Prime Time,3.13
+1,17.5,-0.83,3,1,Forward,Prime Time,1.01
+0,19.7,-0.94,6,0,Forward,Prime Time,2.92
+0,20.8,0.26,4,0,Guard,Late,5.39
+0,27.1,0.69,1,1,Forward,Late,1.79
+0,17.7,0.21,4,1,Forward,Early,1.3
+0,31.3,0.98,0,1,Forward,Early,2.29
+1,25.9,0.91,4,1,Forward,Prime Time,2.46
+0,33.2,0.61,0,1,Center,Early,3.54
+1,34.8,0.02,2,1,Forward,Late,1.78
+1,23.7,-0.94,1,0,Guard,Prime Time,5.32
+0,18.0,-1.49,1,0,Forward,Early,4.07
+0,29.5,1.67,1,1,Forward,Early,1.79
+1,24.0,1.68,5,0,Guard,Early,4.43
+1,16.5,-0.99,0,1,Forward,Prime Time,1.27
+0,28.4,-1.0,2,0,Center,Late,3.37
+1,20.2,-2.22,2,1,Center,Early,2.23
+1,28.9,1.46,4,0,Guard,Prime Time,2.45
+1,39.6,-1.77,0,1,Guard,Early,1.32
+1,22.1,-0.63,2,0,Guard,Prime Time,1.91
+0,37.8,-1.07,3,0,Guard,Early,5.68
+1,31.3,2.09,2,0,Guard,Prime Time,3.04
+0,11.3,0.14,3,1,Forward,Late,0.97
+0,34.4,-0.28,1,1,Center,Early,2.85
+1,32.7,0.49,2,1,Guard,Early,0.0
+1,26.3,0.04,2,0,Forward,Early,2.92
+1,17.6,-1.07,1,1,Forward,Prime Time,0.95
+1,32.4,0.95,2,1,Guard,Late,1.89
+0,42.0,1.8,1,0,Forward,Prime Time,3.59
+1,39.3,0.3,3,0,Forward,Early,1.29
+0,47.9,0.83,1,0,Guard,Prime Time,3.34
+0,23.2,1.12,3,1,Center,Early,0.42
+0,22.8,0.21,3,0,Center,Prime Time,3.99
+0,21.2,1.11,2,1,Guard,Early,1.5
+1,22.0,-0.74,1,1,Guard,Prime Time,1.23
+0,26.8,0.63,1,1,Guard,Early,2.62
+1,32.5,-1.61,4,1,Guard,Prime Time,3.16
+0,17.2,2.5,1,0,Forward,Early,4.89
+1,38.4,0.39,4,1,Guard,Prime Time,2.54
+0,25.7,-0.57,0,0,Guard,Early,4.59
+0,20.5,-1.23,4,0,Forward,Early,2.44
+1,23.4,-0.14,1,0,Guard,Late,1.5
+1,15.6,-2.21,2,1,Guard,Early,3.31
+0,40.4,-0.66,2,1,Forward,Late,2.31
+0,31.3,0.9,1,1,Center,Prime Time,4.52
+0,22.2,-0.36,6,1,Forward,Late,3.55
+1,21.5,0.41,5,1,Guard,Prime Time,2.37
+0,33.3,-0.43,2,0,Forward,Early,2.84
+1,30.0,0.05,1,1,Forward,Prime Time,1.8
+1,33.3,-1.66,2,1,Guard,Late,5.3
+0,24.1,2.05,0,0,Center,Early,4.85
+1,25.2,-0.89,0,1,Guard,Prime Time,3.17
+1,16.5,0.43,0,1,Guard,Early,0.0
+1,24.5,0.88,1,1,Guard,Early,2.34
+0,23.5,-0.09,2,1,Guard,Late,2.48
+1,19.3,-0.33,5,1,Guard,Prime Time,1.79
+1,25.8,-1.32,0,1,Guard,Late,0.86
+0,12.7,0.32,2,1,Guard,Prime Time,4.78
+1,28.6,-1.93,2,1,Forward,Early,3.45
+0,19.5,1.97,3,0,Center,Late,4.13
+0,33.9,0.38,1,1,Guard,Late,2.98
+0,34.3,-1.55,2,0,Center,Early,4.28
+1,22.3,-0.9,0,1,Center,Prime Time,2.07
+0,31.6,1.02,2,1,Center,Prime Time,1.09
+1,19.9,-0.49,3,0,Guard,Early,4.25
+0,20.1,2.04,2,1,Forward,Prime Time,3.44
+0,30.5,0.43,3,0,Guard,Late,2.78
+1,41.6,0.35,1,0,Forward,Early,4.46
+1,22.6,-0.25,3,1,Guard,Prime Time,1.89
+0,19.8,-0.47,1,0,Forward,Late,4.48
+1,23.4,-0.79,1,1,Guard,Prime Time,1.79
+0,25.0,-0.32,1,0,Guard,Early,2.12
+0,19.6,-0.59,3,0,Guard,Early,3.91
+1,35.4,-0.92,0,1,Guard,Prime Time,2.04
+1,28.2,-0.51,2,1,Forward,Late,1.66
+0,22.6,-0.03,4,0,Forward,Early,2.65
+0,21.0,-2.16,6,0,Center,Prime Time,3.43
+0,30.1,-1.22,3,0,Guard,Late,2.8
+1,32.8,0.69,1,1,Center,Late,3.7
+0,28.8,-0.46,3,1,Guard,Early,3.03
+0,30.4,-1.15,6,0,Guard,Prime Time,3.83
+1,33.3,-1.5,2,0,Forward,Early,2.63
+1,39.7,-1.53,2,1,Center,Early,3.16
+0,26.2,0.6,3,0,Forward,Late,2.56
+0,19.4,0.0,3,0,Guard,Prime Time,2.64
+1,20.9,-1.23,1,1,Guard,Prime Time,3.59
+1,27.0,-1.12,2,1,Guard,Late,0.62
+0,24.3,-0.79,1,1,Center,Late,4.3
+0,18.4,0.32,3,0,Forward,Prime Time,3.54
+1,19.3,1.35,3,0,Center,Prime Time,3.71
+0,17.2,-1.02,3,1,Center,Late,0.0
+0,25.5,0.16,1,1,Forward,Early,1.67
+1,24.3,-0.59,4,0,Forward,Prime Time,3.95
+0,15.2,-0.5,3,0,Center,Prime Time,5.15
+1,27.8,1.34,2,1,Forward,Late,2.37
+1,26.2,-0.58,2,0,Guard,Early,3.14
+0,29.5,1.04,3,1,Center,Prime Time,3.41
+1,25.8,-0.24,1,1,Guard,Early,2.63
+1,36.0,-1.15,3,1,Guard,Late,2.26
+0,17.3,-0.85,4,0,Guard,Prime Time,3.87
+0,37.5,1.04,0,0,Guard,Early,3.54
+0,12.4,1.72,1,1,Center,Prime Time,1.76
+0,32.7,0.49,1,0,Forward,Early,5.2
+1,31.1,0.5,5,0,Forward,Prime Time,6.7
+1,40.6,-0.93,2,1,Center,Late,1.25
+1,30.7,-0.51,0,0,Forward,Prime Time,4.52
+0,22.0,-0.87,0,0,Forward,Prime Time,4.32
+1,22.2,2.5,5,1,Guard,Prime Time,0.32
+0,33.8,2.38,5,0,Forward,Early,3.79
+1,44.1,-0.63,1,1,Guard,Early,0.81
+0,29.4,2.32,1,1,Forward,Early,2.72
+0,24.1,-0.13,1,0,Forward,Early,1.77
+0,19.5,1.21,2,1,Forward,Early,2.12
+0,30.7,1.45,3,0,Forward,Early,2.4
+1,16.9,0.0,1,0,Forward,Prime Time,4.89
+0,25.0,0.55,0,1,Guard,Prime Time,1.6
+1,37.0,1.44,1,1,Forward,Prime Time,0.59
+1,27.2,0.03,4,1,Guard,Prime Time,1.29
+1,27.5,-0.81,1,1,Guard,Prime Time,2.29
+1,36.7,-0.62,1,1,Guard,Late,1.29
+1,13.5,-0.21,2,1,Guard,Prime Time,4.09
+0,37.7,0.3,3,1,Forward,Early,3.23
+0,20.0,0.12,1,1,Forward,Prime Time,2.52
+0,35.6,1.65,3,0,Guard,Late,3.68
+0,24.1,0.31,0,0,Guard,Prime Time,2.52
+0,35.1,0.59,3,0,Forward,Early,4.06
+1,24.4,2.5,3,0,Forward,Early,2.59
+0,27.3,1.5,6,1,Forward,Early,2.09
+0,29.0,1.51,3,0,Guard,Prime Time,5.01
